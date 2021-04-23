@@ -11,3 +11,6 @@ feature 2
 # feature 3 task
 
 feature 3
+# feature 5 task
+
+feature 5 finished
