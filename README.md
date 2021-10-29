@@ -17,3 +17,5 @@ sada smo na pola git crash course kursa
 # feature 7 task
 
 feature 7 started
+
+# feature 8 task
