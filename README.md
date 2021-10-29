@@ -10,3 +10,7 @@ feature 2
 # feature 5 task
 
 feature 5 finished
+
+# feature 6 task
+
+radimo git crash course
