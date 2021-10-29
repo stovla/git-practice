@@ -13,4 +13,4 @@ feature 5 finished
 
 # feature 6 task
 
-radimo git crash course
+sada smo na pola git crash course kursa
