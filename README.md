@@ -10,6 +10,9 @@ feature 2
 # feature 5 task
 
 feature 5 finished
+# feature 6 task
+
+sada smo na pola git crash course kursa
 
 # feature 7 task
 
