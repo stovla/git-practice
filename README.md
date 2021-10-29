@@ -7,7 +7,6 @@ feature 1 finished
 
 # feature 2 task
 feature 2
+# feature 5 task
 
-# feature 3 task
-
-feature 3
+feature 5 finished
