@@ -1,3 +1,5 @@
 poceli smo git obuku na ios crash course
 
-radimo git kurs
+zavrsavamo git kurs 1. deo
+
+hvala na paznji
